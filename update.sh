@@ -16,8 +16,6 @@ cd platform
 #update the application if necessary
 sudo npm update
 
-#move back to the root
-cd ..
 
 #Start the app
 forever start app.js
