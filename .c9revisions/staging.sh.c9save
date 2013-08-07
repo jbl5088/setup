@@ -1,0 +1,8 @@
+{"ts":1375887089699,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1375887150247,"patch":[[{"diffs":[[1,"#Stop the Existing server\nforever stop"]],"start1":0,"start2":0,"length1":0,"length2":38}]],"length":38,"saved":false}
+{"ts":1375887174531,"patch":[[{"diffs":[[1,"# Move to platform\ncd ~/platform\n"],[0,"#Stop th"]],"start1":0,"start2":0,"length1":8,"length2":41}]],"length":71,"saved":false}
+{"ts":1375887188106,"patch":[[{"diffs":[[0,"latform\n"],[1,"\n"],[0,"#Stop th"]],"start1":25,"start2":25,"length1":16,"length2":17}]],"length":72,"saved":false}
+{"ts":1375887386111,"patch":[[{"diffs":[[0,"ver stop"],[1,"\n\n#Pull Down Staging branch\ngit pull origin staging\n\n#ReStart server\nforever start app.js"]],"start1":64,"start2":64,"length1":8,"length2":97}]],"length":161,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1375888194309,"patch":[[{"diffs":[[0,"ull "],[-1,"ori"],[1,"hubsta"],[0,"gin"],[1,"g"],[0," sta"]],"start1":105,"start2":105,"length1":14,"length2":18}]],"length":165,"saved":false}
+{"ts":1375888287233,"patch":[[{"diffs":[[0,"ver stop"],[1," app.js"],[0,"\n\n#Pull "]],"start1":64,"start2":64,"length1":16,"length2":23},{"diffs":[[0,"taging\n\n"],[1,"#Npm update\nsudo npm update\n\n"],[0,"#ReStart"]],"start1":128,"start2":128,"length1":16,"length2":45}]],"length":201,"saved":false}
+{"ts":1375888295297,"patch":[[{"diffs":[[0,"it pull "],[1,"-u "],[0,"hubstagi"]],"start1":108,"start2":108,"length1":16,"length2":19}]],"length":204,"saved":false}
