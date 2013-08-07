@@ -2,10 +2,13 @@
 cd ~/platform
 
 #Stop the Existing server
-forever stop
+forever stop app.js
 
 #Pull Down Staging branch
-git pull origin staging
+git pull -u hubstaging staging
+
+#Npm update
+sudo npm update
 
 #ReStart server
 forever start app.js
